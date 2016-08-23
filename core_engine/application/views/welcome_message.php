@@ -75,6 +75,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<p>Percobaan Ubah By diding 1</p>
 		<p>Percobaan Ubah By diding 2</p>
 		<p>Percobaan Ubah By diding 3</p>
+                <p>Percobaan Ubah By budy 4</p>
 		<p>If you would like to edit this page you'll find it located at:</p>
 		<code>application/views/welcome_message.php</code>
 
